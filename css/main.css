@@ -1,0 +1,22 @@
+.main-style * {
+  box-sizing: border-box;
+}
+
+.data {
+  text-align: center;
+  clear: both;
+  background-color: #fafafa;
+}
+
+.dataImg {
+  width: 240px;
+  padding: 170px 0px 50px 0px;
+}
+
+.dataText {
+  text-align: center;
+  padding: 0px 0px 90px 0px;
+  color: #969696;
+  font-size: 24px;
+  font-weight: bold;
+}
